@@ -1,0 +1,5 @@
+var letters = map[string]string{
+	"A": "Apple",
+	"B": "Ball",
+	"C": "Cat",
+}
